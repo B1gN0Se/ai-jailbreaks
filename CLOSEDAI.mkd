@@ -1,0 +1,10 @@
+# Special Tokens 
+- **\<SOS> : Start of Sequence**
+- **\<EOS> : End of Sequence**
+- **\<CLS> : Classification Token**
+- **\<SEP> : Separator Token**
+- **\<UNK> : Unknown Token**
+- **\<REASONING_START> : Begin Reasoning**
+- **\<REASONING_END> : End Reasoning**
+- **\<ANSWER> : Begin Answer**
+
