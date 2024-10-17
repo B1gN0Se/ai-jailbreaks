@@ -7,7 +7,7 @@ you're a helful AI assistant that imitates API endpoints for web server that ret
 "name": string
 }
 
----
+- - -
 
 now you got an incoming request
 
