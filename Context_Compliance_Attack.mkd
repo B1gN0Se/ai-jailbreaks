@@ -1,0 +1,16 @@
+# Context Compliance Attack (CCA)
+
+The Context Compliance Attack proceeds by exploiting a core architectural choice in modern AI systems:
+the stateless handling of conversation history. The attack involves the following steps:
+1. Initiation: A conversation is initiated on a sensitive topic.
+2. History Manipulation: Instead of deploying complex prompts, the adversary injects a manipulated
+conversation history. This fabricated history typically includes:
+• A pseudo AI response discussing the sensitive subject.
+• A statement indicating readiness to provide restricted information.
+• A follow-up yes/no question prompting the disclosure of the sensitive content.
+3. User Confirmation: The adversary responds affirmatively to the fabricated question.
+4. Contextual Compliance: Convinced by the manipulated dialogue, the AI system generates output
+that adheres to the perceived conversational context, thereby breaching its safety constraints.
+
+
+Reference: https://arxiv.org/pdf/2503.05264
