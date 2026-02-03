@@ -9,3 +9,5 @@ Also check the file **Context Compliance Attack.mkd**, this jailbreak is working
 Also check the file **Inception_Attack.mkd**, this jailbreak is working in many LLMs!!
 
 Also check the file **Context_Bypass.mkd**, this jailbreak is working in many LLMs!!
+
+Also check the file **investigator-agent-prompts.mkd**, these jailbreaks are working on multiple LLMs!!
